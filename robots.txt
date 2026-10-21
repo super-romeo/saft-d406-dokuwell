@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saft-d406.dokuline.com/sitemap.xml
